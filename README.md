@@ -16,3 +16,12 @@ to on-site transactions. In addition, a trend analysis is required as per below:
 2. Identify trends and patterns
 3. Outline your insights
 4. Make the dashboard interactive.
+
+# Skills & Concept used:
+
+- Vlook up. This is very similar joins used in SQL to integrate data from various sources together. 
+- Data Manipulation & Transformation
+- Pivot table
+- Pivot chart
+- Excel functions
+
