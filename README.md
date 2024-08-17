@@ -25,3 +25,9 @@ to on-site transactions. In addition, a trend analysis is required as per below:
 - Pivot chart
 - Excel functions
 
+# Dashboard
+![Dashboard Class Work 2](https://github.com/user-attachments/assets/98cbfac1-a22c-4ea4-90b6-a865b75aac7a)
+
+# Insights:
+- On site transactions constituted 23% while mobile app transactions was 77%.
+- 2023 had the highest yearly combined transaction at 479,220.
