@@ -19,7 +19,8 @@ to on-site transactions. In addition, a trend analysis is required as per below:
 
 # Skills & Concept used:
 
-- Vlook up. This is very similar joins used in SQL to integrate data from various sources together. 
+- Vlook up. This is very similar joins used in SQL to integrate data from various sources together.
+- Flash Fill
 - Data Manipulation & Transformation
 - Pivot table
 - Pivot chart
