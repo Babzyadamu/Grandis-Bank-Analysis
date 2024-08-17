@@ -31,3 +31,5 @@ to on-site transactions. In addition, a trend analysis is required as per below:
 # Insights:
 - On site transactions constituted 23% while mobile app transactions was 77%.
 - 2023 had the highest yearly combined transaction at 479,220.
+- Soth East region had the highest transaction with mobile app transaction at 354,221 and On site transaction at 74,071
+- 
