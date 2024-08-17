@@ -29,8 +29,18 @@ to on-site transactions. In addition, a trend analysis is required as per below:
 # Dashboard
 ![Dashboard Class Work 2](https://github.com/user-attachments/assets/98cbfac1-a22c-4ea4-90b6-a865b75aac7a)
 
-# Insights:
-- On site transactions constituted 23% while mobile app transactions was 77%.
-- 2023 had the highest yearly combined transaction at 479,220.
-- South East region had the highest transaction with mobile app transaction at 354,221 and On site transaction at 74,071
-- Mobile app transaction peaked at May 2023 with 32,578 while it declined in 2024. Onsite transaction had the highest transaction in October 2023 with 17,920.
+# Conclusion:
+- The data indicates a strong preference for mobile app transactions, which constituted 77% of the total transactions, significantly outpacing on-site transactions at 23%. 
+- The year 2023 recorded the highest number of combined transactions, totaling 479,220, suggesting a peak in customer engagement during this period.
+- The South East region was the most active, with both mobile app and on-site transactions leading in this area.
+- Notably, mobile app transactions peaked in May 2023 with 32,578 transactions, while on-site transactions saw their highest activity in October 2023 with 17,920 transactions. However, there was a decline in mobile app transactions in 2024.
+
+# Recommendations:
+
+- Focus on Mobile Optimization: Given the dominance of mobile app transactions, investing in the mobile app's user experience, performance, and features should be a priority. Enhancing the app could help sustain engagement and potentially reverse the decline observed in 2024.
+
+- Regional Strategies: The South East region shows high transaction volumes. Tailoring marketing and promotional strategies used in south east can be applied to other regions to boost thier transactions.
+
+- Seasonal Campaigns: Since specific months like May and October showed transaction peaks, implementing targeted marketing campaigns during these periods could capitalize on increased user activity.
+
+- Investigate 2024 Decline: The decline in mobile app transactions in 2024 warrants further investigation. Understanding the cause, whether it's market saturation, competition, or other factors, will help in crafting strategies to address this drop and regain transaction momentum.
