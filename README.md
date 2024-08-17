@@ -1,3 +1,5 @@
+
 # Sales-Analysis-Using-Excel
 
-![](https://github.com/Babzyadamu/Grandis-Bank-Analysis/commit/8ac280433a8ab906f6534762df467d0d67af192f#commitcomment-145481401.jpg)
+
+![Bank_Picture](https://github.com/user-attachments/assets/5f913d15-4013-4546-8a47-9b86f2c05f55)
