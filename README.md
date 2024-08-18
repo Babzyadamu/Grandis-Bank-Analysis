@@ -9,8 +9,8 @@ This was a Bank analysis using Microsoft Excel. The data was gotten from Nebiant
 
 #Problem Statement 
 
-The aim of this project is to analyze the transaction data to identify trends and patterns. Specifically, The focus is on determining how mobile app transactions have grown over the years in comparison
-to on-site transactions. In addition, a trend analysis is required as per below:
+The aim of this project was to analyze the transaction data to identify trends and patterns. Specifically, The focus was on determining how mobile app transactions have grown over the years in comparison
+to on-site transactions. In addition, a trend analysis was required as per below:
 
 1. Summarize the data and create a one pager report
 2. Identify trends and patterns
